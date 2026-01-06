@@ -1,7 +1,8 @@
 TOKEN = "8275637960:AAGVhL33pMp0vXRdgXzfaZqF5rYuHwDfrPw"
 OWNER_ID = 8588773170
 
-WEBHOOK_URL = "https://YOUR-APP.onrender.com/webhook"
+WEBHOOK_URL = "https://ljhkjhdbs.onrender.com/webhook"
 
 DEFAULT_SUB_DAYS = 30
 ADS_INTERVAL = 5
+
